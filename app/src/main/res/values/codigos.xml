@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="combustiveis" >
+        <item >Gasolina</item>
+        <item >Etanol</item>
+        <item >Diesel</item>
+        <item >Gás Natural</item>
+    </string-array>
+</resources>
